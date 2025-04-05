@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\bin\Debug\net6.0\minutes to hours and minutes.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\bin\Debug\net6.0\minutes to hours and minutes.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\bin\Debug\net6.0\minutes to hours and minutes.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\bin\Debug\net6.0\minutes to hours and minutes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\bin\Debug\net6.0\minutes to hours and minutes.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\refint\minutes to hours and minutes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\minutes to hours and minutes.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\Sirma academy homework 1\obj\Debug\net6.0\ref\minutes to hours and minutes.dll

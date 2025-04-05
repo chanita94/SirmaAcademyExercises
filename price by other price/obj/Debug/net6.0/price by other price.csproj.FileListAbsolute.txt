@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\bin\Debug\net6.0\price by other price.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\bin\Debug\net6.0\price by other price.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\bin\Debug\net6.0\price by other price.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\bin\Debug\net6.0\price by other price.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\bin\Debug\net6.0\price by other price.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\refint\price by other price.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\price by other price.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\price by other price\obj\Debug\net6.0\ref\price by other price.dll

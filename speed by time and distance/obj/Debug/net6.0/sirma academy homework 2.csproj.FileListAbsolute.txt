@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\bin\Debug\net6.0\sirma academy homework 2.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\bin\Debug\net6.0\sirma academy homework 2.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\bin\Debug\net6.0\sirma academy homework 2.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\bin\Debug\net6.0\sirma academy homework 2.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\bin\Debug\net6.0\sirma academy homework 2.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\refint\sirma academy homework 2.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\sirma academy homework 2.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\sirma academy homework 2\obj\Debug\net6.0\ref\sirma academy homework 2.dll

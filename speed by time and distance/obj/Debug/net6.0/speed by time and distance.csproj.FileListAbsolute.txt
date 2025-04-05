@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\bin\Debug\net6.0\speed by time and distance.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\bin\Debug\net6.0\speed by time and distance.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\bin\Debug\net6.0\speed by time and distance.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\bin\Debug\net6.0\speed by time and distance.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\bin\Debug\net6.0\speed by time and distance.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\refint\speed by time and distance.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\speed by time and distance.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\sirma academy homeworks\speed by time and distance\obj\Debug\net6.0\ref\speed by time and distance.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "two cars with different speed/1.0.0": {
+        "runtime": {
+          "two cars with different speed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "two cars with different speed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

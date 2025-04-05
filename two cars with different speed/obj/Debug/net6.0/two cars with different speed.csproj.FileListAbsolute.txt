@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\bin\Debug\net6.0\two cars with different speed.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\bin\Debug\net6.0\two cars with different speed.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\bin\Debug\net6.0\two cars with different speed.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\bin\Debug\net6.0\two cars with different speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\bin\Debug\net6.0\two cars with different speed.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\refint\two cars with different speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\two cars with different speed.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\two cars with different speed\obj\Debug\net6.0\ref\two cars with different speed.dll

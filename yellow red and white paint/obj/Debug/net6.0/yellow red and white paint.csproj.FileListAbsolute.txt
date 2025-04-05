@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\bin\Debug\net6.0\yellow red and white paint.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\bin\Debug\net6.0\yellow red and white paint.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\bin\Debug\net6.0\yellow red and white paint.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\bin\Debug\net6.0\yellow red and white paint.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\bin\Debug\net6.0\yellow red and white paint.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\refint\yellow red and white paint.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\yellow red and white paint.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\Sirma academy homework 1\yellow red and white paint\obj\Debug\net6.0\ref\yellow red and white paint.dll
