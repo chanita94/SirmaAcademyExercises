@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\bin\Debug\net7.0\Number from 0 to 9 with words.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\bin\Debug\net7.0\Number from 0 to 9 with words.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\bin\Debug\net7.0\Number from 0 to 9 with words.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\bin\Debug\net7.0\Number from 0 to 9 with words.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\bin\Debug\net7.0\Number from 0 to 9 with words.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\refint\Number from 0 to 9 with words.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\Number from 0 to 9 with words.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Number from 0 to 9 with words\obj\Debug\net7.0\ref\Number from 0 to 9 with words.dll

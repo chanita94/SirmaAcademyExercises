@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\bin\Debug\net7.0\Even or odd.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\bin\Debug\net7.0\Even or odd.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\bin\Debug\net7.0\Even or odd.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\bin\Debug\net7.0\Even or odd.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\bin\Debug\net7.0\Even or odd.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\refint\Even or odd.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\Even or odd.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Even or odd\obj\Debug\net7.0\ref\Even or odd.dll

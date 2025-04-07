@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\bin\Debug\net7.0\Marks.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\bin\Debug\net7.0\Marks.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\bin\Debug\net7.0\Marks.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\bin\Debug\net7.0\Marks.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\bin\Debug\net7.0\Marks.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\refint\Marks.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\Marks.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Marks\obj\Debug\net7.0\ref\Marks.dll

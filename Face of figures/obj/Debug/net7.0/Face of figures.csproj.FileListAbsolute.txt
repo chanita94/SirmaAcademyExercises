@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\bin\Debug\net7.0\Face of figures.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\bin\Debug\net7.0\Face of figures.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\bin\Debug\net7.0\Face of figures.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\bin\Debug\net7.0\Face of figures.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\bin\Debug\net7.0\Face of figures.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\refint\Face of figures.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\Face of figures.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Face of figures\obj\Debug\net7.0\ref\Face of figures.dll

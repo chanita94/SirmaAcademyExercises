@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Number from 0 to 9 with words/1.0.0": {
+        "runtime": {
+          "Number from 0 to 9 with words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Number from 0 to 9 with words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

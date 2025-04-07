@@ -1,0 +1,15 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\bin\Debug\net7.0\Speed.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\bin\Debug\net7.0\Speed.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\bin\Debug\net7.0\Speed.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\bin\Debug\net7.0\Speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\bin\Debug\net7.0\Speed.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.csproj.AssemblyReference.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\refint\Speed.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\Speed.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\homework\homework\Speed\obj\Debug\net7.0\ref\Speed.dll
